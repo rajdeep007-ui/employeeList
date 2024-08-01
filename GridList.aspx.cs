@@ -9,7 +9,7 @@ namespace GridEmployee
     {
         private SqlCommand sqlCommand;
         private SqlDataAdapter sqlDataAdapter; // SqlDataAdapter is a bridge between Dataset and Sql Server Database to retrive data.
-        DataSet dataSet; // Dataset is the local copy of your database which exists in the local system and makes the application execute faster and reliable.
+        DataSet dataSet; // Sayan Dataset is the local copy of your database which exists in the local system and makes the application execute faster and reliable.
         protected void Page_Load(object sender, EventArgs e)
         {
 
