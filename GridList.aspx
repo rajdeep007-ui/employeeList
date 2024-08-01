@@ -16,7 +16,7 @@
 <body>
     <form id="form1" runat="server">
         <div align="center">
-            <h3>Employee Mangement System</h3>
+            <h3>Employee Mangement System:</h3>
         </div>
         <section>
             <div class="row">
